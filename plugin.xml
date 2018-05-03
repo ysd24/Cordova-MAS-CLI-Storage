@@ -2,9 +2,9 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="cordova-plugin-mas-storage"
+           id="cordova-plugin-mas-cli-storage"
       version="0.1.0">
-    <name>MASStorage</name>
+    <name>cordova-plugin-mas-cli-storage</name>
     <description>Cordova MASStorage Plugin</description>
     <license>CA Technologies Ltd.</license>
     <keywords>cordova, MASStorage, CA Technologies</keywords>

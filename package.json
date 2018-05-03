@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-mas-cli-storage",
-  "version": "1.6.10",
+  "version": "1.6.11",
   "description": "Cordova MASStorage Plugin",
   "cordova": {
     "id": "cordova-plugin-mas-cli-storage",
@@ -15,7 +15,7 @@
   },
   "keywords": [
     "cordova",
-    "MASStorage",
+    "cordova-plugin-mas-cli-storage",
     "CA Technologies",
     "ecosystem:cordova",
     "cordova-ios",
