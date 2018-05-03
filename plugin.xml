@@ -3,7 +3,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="cordova-plugin-mas-cli-storage"
-      version="0.1.0">
+      version="1.6.10">
     <name>cordova-plugin-mas-cli-storage</name>
     <description>Cordova MASStorage Plugin</description>
     <license>CA Technologies Ltd.</license>
@@ -13,7 +13,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <clobbers target="MASStoragePlugin" />
     </js-module>
     
-    <dependency id="cordova-plugin-mas-cli-core" url="https://github.com/ysd24/Cordova-MAS-CLI-Foundation.git" commit="master" />
+    <dependency id="cordova-plugin-mas-cli-core" />
     
     <!-- iOS -->
     <platform name="ios" >
